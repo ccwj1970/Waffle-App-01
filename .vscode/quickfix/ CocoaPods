@@ -1,0 +1,12 @@
+cd ios
+pod install
+pod repo update
+pod install
+cd ..
+flutter clean
+flutter pub get
+flutter run
+sudo gem install cocoapods
+pod setup
+cd ios
+pod install
