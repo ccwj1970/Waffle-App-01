@@ -1,9 +1,11 @@
 
 # 比利時鬆餅訂製應用程式
+這是一款可以訂製比利時鬆餅的應用程式。透過這個應用程式，使用者可以輕鬆選擇並定制自己喜愛的鬆餅配料和樣式。 </br>
+這個應用程式主要運用了以下技術知識：
 
-![Uploading Screenshot 2024-08-04 at 23.00.57.png…]()
+<img width="600" alt="Screenshot 2024-08-04 at 23 04 41" src="https://github.com/user-attachments/assets/960534aa-6b58-4fba-8075-e1f7899c0250">
 
-這是一款可以訂製比利時鬆餅的應用程式。透過這個應用程式，使用者可以輕鬆選擇並定制自己喜愛的鬆餅配料和樣式。這個應用程式主要運用了以下技術知識：
+
 
 ## 學習重點
 
@@ -118,6 +120,7 @@
 - **實時預覽**：即時顯示鬆餅訂製效果。
 - **保存和分享**：保存訂製好的鬆餅圖片並分享給好友。
 
+
 ## 頁面介紹
 
 ### IntroPage
@@ -194,7 +197,7 @@ class IntroPage extends StatelessWidget {
 }
 ```
 
-
-
-## Medium
+## 文章分享
+### Medium
 https://medium.com/p/8d9aeb194f3a/edit
+
