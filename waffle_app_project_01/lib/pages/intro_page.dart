@@ -3,7 +3,6 @@ import 'package:google_fonts/google_fonts.dart'; // 版本： google_fonts: ^6.2
 import 'package:waffle_app_project_01/components/button.dart';
 
 
-
 class IntroPage extends StatelessWidget {
   const IntroPage({super.key});
 
@@ -17,7 +16,7 @@ class IntroPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start, // 左右
           mainAxisAlignment: MainAxisAlignment.spaceEvenly, // 上下
           children: [
-            const SizedBox(height: 40),
+            const SizedBox(height: 20),
 
             // shop name
             Text(
